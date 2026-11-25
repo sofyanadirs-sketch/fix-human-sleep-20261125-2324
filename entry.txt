@@ -1,0 +1,1 @@
+Fixed sleep: closing your eyes no longer opens 47 browser tabs in your head at 3 a.m.
